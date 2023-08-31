@@ -3,3 +3,5 @@
 # Question 01
 name = input("Enter you name: ")
 print(f"Hello, {name}!")
+
+# Question 02 - Could complete the tasks
