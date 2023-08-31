@@ -1,5 +1,5 @@
 # 02. Variables and interactive programs
-"""
+
 # Question 01
 name = input("Enter you name: ")
 print(f"Hello, {name}!")
@@ -40,7 +40,7 @@ number_1 = random.randint(0,9)
 number_2 = random.randint(0,9)
 number_3 = random.randint(0,9)
 print(f"Your 3-digit code is: {number_1}{number_2}{number_3}")
-"""
+
 # Question 06 Part 02
 import random
 number_1 = random.randint(1,6)
