@@ -12,7 +12,7 @@ inches = float(input("Enter inches: "))
 while inches > 0:
     centimeters = inches * 2.54
     print(centimeters)
-    inches = int(input("Enter inches: "))
+    inches = float(input("Enter inches: "))
 print("Enter a positive number!")
 
 # Question 03
