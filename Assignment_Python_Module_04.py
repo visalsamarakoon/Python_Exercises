@@ -8,7 +8,7 @@ while num <= 1000:
         print(num)
 
 # Question 02
-inches = int(input("Enter inches: "))
+inches = float(input("Enter inches: "))
 while inches > 0:
     centimeters = inches * 2.54
     print(centimeters)
