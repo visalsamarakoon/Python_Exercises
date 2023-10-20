@@ -1,3 +1,4 @@
+# 06. Functions
 # Question 01
 
 import random
