@@ -1,5 +1,5 @@
 # 10. Association
-"""
+
 elevators = []
 class Building:
     def __init__(self, bottom_floor, top_floor, no_of_elevators):
@@ -128,3 +128,4 @@ class Building:
 building = Building(1, 7, 3)
 building.run_elevator(0, 5)
 building.fire_alarm()
+"""
